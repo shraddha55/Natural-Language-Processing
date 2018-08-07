@@ -1,0 +1,276 @@
+Noun -> castle 1
+Noun -> king 1
+Noun -> defeater 1
+Noun -> sovereign 1
+Noun -> servant 1
+Noun -> corner 1
+Noun -> land 1
+Noun -> quest 1
+Noun -> chalice 1
+Noun -> master 1
+Noun -> horse 1
+Noun -> fruit 1
+Noun -> swallow 1
+Noun -> sun 1
+Noun -> winter 1
+Noun -> coconut 1
+Noun -> pound 1
+Noun -> husk 1
+Noun -> home 1
+Noun -> weight 1
+Noun -> story 1
+
+
+Det -> a 1
+Det -> another 1
+Det -> any 1
+Det -> each 1
+Det -> every 1
+Det -> no 1
+Det -> that 1
+Det -> the 1
+Det -> this 1
+
+
+Prep -> above 1
+Prep -> across 1
+Prep -> at 1
+Prep -> below 1
+Prep -> by 1
+Prep -> for 1
+Prep -> from 1
+Prep -> into 1
+Prep -> near 1
+Prep -> of 1
+Prep -> on 1
+Prep -> over 1
+Prep -> through 1
+Prep -> with 1
+
+
+Proper -> Arthur 1
+Proper -> Guinevere 1
+Proper -> Sir Lancelot 1
+Proper -> Sir Bedevere 1
+Proper -> Zoot 1
+Proper -> Dingo 1
+Proper -> Patsy 1
+Proper -> Uther Pendragon 1
+
+
+VerbT -> has 1
+VerbT -> covers 1
+VerbT -> is 1
+VerbT -> drinks 1
+VerbT -> carries 1
+VerbT -> rides 1
+
+
+EOS -> ! 1
+EOS -> . 1
+EOS -> ? 1
+
+Misc -> , 1
+Misc -> ... 1
+Misc -> -- 1
+Misc -> ; 1
+
+Misc -> and 1
+Misc -> but 1
+Misc -> or 1
+Misc -> either 1
+Misc -> nor 1
+Misc -> neither 1
+Misc -> so 1
+Misc -> eight 1
+Misc -> five 1
+Misc -> one 1
+Misc -> 5.5 1
+Misc -> sixty 1
+Misc -> 5,000 1
+Misc -> there 1
+Misc -> that 1
+Misc -> so 1
+Misc -> while 1
+Misc -> because 1
+Misc -> if 1
+Misc -> can 1
+Misc -> could 1
+Misc -> may 1
+Misc -> might 1
+Misc -> must 1
+Misc -> ought 1
+Misc -> shall 1
+Misc -> should 1
+Misc -> will 1
+Misc -> would 1
+Misc -> bloody 1
+Misc -> weary 1
+Misc -> unable 1
+Misc -> trusty 1
+Misc -> further 1
+Misc -> sacred 1
+Misc -> tropical 1
+Misc -> indigenous 1
+Misc -> temperate 1
+Misc -> hot 1
+Misc -> lucky 1
+Misc -> simple 1
+Misc -> tiny 1
+Misc -> hard 1
+Misc -> sensational 1
+Misc -> comparable 1
+Misc -> angolian 1
+Misc -> yellow 1
+Misc -> plodding 1
+Misc -> bloodier 1
+Misc -> wearier 1
+Misc -> trustier 1
+Misc -> hotter 1
+Misc -> simpler 1
+Misc -> tinier 1
+Misc -> harder 1
+Misc -> bloodiest 1
+Misc -> weariest 1
+Misc -> trustiest 1
+Misc -> hottest 1
+Misc -> simplest 1
+Misc -> tiniest 1
+Misc -> hardest 1
+
+
+Noun -> coconuts 1
+Noun -> halves 1
+Noun -> snows 1
+Noun -> mountains 1
+Noun -> areas 1
+Noun -> strangers 1
+Noun -> inches 1
+Noun -> snakes 1
+Noun -> ants 1
+Noun -> nights 1
+
+
+Proper -> Camelot 1
+Proper -> England 1
+Proper -> Holy Grail 1
+Proper -> Round Table 1
+Proper -> Britons 1
+Proper -> Saxons 1
+
+Misc -> he 1
+Misc -> her 1
+Misc -> him 1
+Misc -> it 1
+Misc -> one 1
+Misc -> she 1
+Misc -> them 1
+Misc -> they 1
+Misc -> her 1
+Misc -> his 1
+Misc -> its 1
+Misc -> their 1
+Misc -> again 1
+Misc -> already 1
+Misc -> currently 1
+Misc -> frequently 1
+Misc -> precisely 1
+Misc -> south 1
+Misc -> successfully 1
+Misc -> unfortunately 1
+Misc -> do 1
+Misc -> does 1
+Misc -> to 1
+Misc -> not 1
+
+
+VerbT -> have 1
+VerbT -> speak 1
+VerbT -> cover 1
+VerbT -> be 1
+VerbT -> ride 1
+VerbT -> drink 1
+VerbT -> grow 1
+VerbT -> carry 1
+VerbT -> suggest 1
+VerbT -> migrate 1
+VerbT -> know 1
+VerbT -> had 1
+VerbT -> spoke 1
+VerbT -> covered 1
+VerbT -> was 1
+VerbT -> were 1
+VerbT -> rode 1
+VerbT -> drank 1
+VerbT -> grew 1
+VerbT -> carried 1
+VerbT -> suggested 1
+VerbT -> migrated 1
+VerbT -> knew 1
+VerbT -> having 1
+VerbT -> speaking 1
+VerbT -> covering 1
+VerbT -> being 1
+VerbT -> riding 1
+VerbT -> drinking 1
+VerbT -> growing 1
+VerbT -> carrying 1
+VerbT -> suggesting 1
+VerbT -> migrating 1
+VerbT -> knowing 1
+VerbT -> had 1
+VerbT -> spoken 1
+VerbT -> covered 1
+VerbT -> been 1
+VerbT -> ridden 1
+VerbT -> drunk 1
+VerbT -> grown 1
+VerbT -> carried 1
+VerbT -> suggested 1
+VerbT -> migrated 1
+
+
+Misc -> known 1
+
+VerbT -> speaks 1
+VerbT -> grows 1
+VerbT -> goes 1
+VerbT -> migrates 1
+VerbT -> suggests 1
+VerbT -> knows 1
+VerbT -> have 1
+VerbT -> speak 1
+VerbT -> cover 1
+VerbT -> are 1
+VerbT-> ride 1
+VerbT -> drink 1
+VerbT -> grow 1
+VerbT -> carry 1
+VerbT -> suggest 1
+VerbT-> migrate 1
+
+Misc -> know 1
+Misc -> that 1
+Misc -> what 1
+Misc -> which 1
+Misc -> what 1
+Misc -> who 1
+Misc -> whose 1
+Misc -> how 1
+Misc -> when 1
+Misc -> where 1
+Misc -> why 1
+Misc -> 's 1
+
+WHD -> where 1
+WHD -> is 1
+WHD -> do 1
+WHD -> who 1
+WHD -> are 1
+WHD -> why 1
+WHD -> when 1
+WHD -> how 1
+WHD -> what 1
+WHD -> whose 1
+WHD -> does 1
+WHD -> should 1
